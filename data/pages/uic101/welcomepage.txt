@@ -1,0 +1,19 @@
+===== UIC 101 =====
+
+这里会介绍有关UIC相关的信息，如果你想了解更多，可以在[[discussion:welcomepage|WelcomePage讨论页]]提出。
+
+[[uic101:newstu|UIC: 迎新营]]
+
+[[uic101:gpa|UIC: GPA 制度]]
+
+[[uic101:mcp|UIC: MCP 导师关顾计划]]
+
+[[uic101:scholarship|UIC: 奖学金制度]]
+
+[[uic101:geontran|UIC: 地理与交通]]
+
+[[uic101:how-to-get|UIC: 如何前往学校]]
+
+[[uic101:tel|UIC：联系电话]]
+
+[[uic101:clubs | UIC：社团]]

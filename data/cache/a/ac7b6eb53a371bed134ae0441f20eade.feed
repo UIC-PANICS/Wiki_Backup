@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcds Wiki en</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-08-20T08:52:23+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/en:welcomepage?rev=1502436229&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcds Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/en:welcomepage?rev=1502436229&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:49+08:00</dc:date>
+        <title>en:welcomepage</title>
+        <link>http://wiki.uiccst.com/en:welcomepage?rev=1502436229&amp;do=diff</link>
+        <description>首页 homepage cst
+
+
+
+UICcst Wiki
+
+Welcome to the Wiki Pages of the Beijing Normal University Hong Kong Baptist University United International College Computer Science and Technology Major.
+
+	*  UICcst Academic Societies Official Website
+	*  UICcst Official Website
+	*  UIC-PANICS Official GitHub Organization
+
+If you have any questions, Go to：WelcomePage Discussion Page
+
+[UICcst Academic Societies's WeChat Account]
+
+----------
+
+----------</description>
+    </item>
+</rdf:RDF>

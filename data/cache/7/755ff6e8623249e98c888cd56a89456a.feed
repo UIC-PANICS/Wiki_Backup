@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcds Wiki</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-09-16T21:04:30+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:how-to-get?rev=1532521088&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/ds101:course?rev=1532279400&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/cst101:course?rev=1532279375&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:newstu?rev=1532110338&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:clubs?rev=1532110270&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:eep?rev=1532109973&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=untitled-1.png&amp;ns=&amp;rev=1531923511&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=ds.png&amp;ns=&amp;rev=1531494262&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=cst.png&amp;ns=&amp;rev=1531494248&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=uic.png&amp;ns=&amp;rev=1531494187&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=wiki%3Auic_cds.png&amp;ns=wiki&amp;rev=1531493266&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A%E4%B8%93%E5%AD%A6.png&amp;ns=share&amp;rev=1506607762&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A6.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A4.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A5.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A3-1.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A1.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=share%3A3-2.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=wiki%3Aicon.png&amp;ns=wiki&amp;rev=1499147086&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/?image=wiki%3Aiconuic.png&amp;ns=wiki&amp;rev=1499147085&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcds Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/uic101:how-to-get?rev=1532521088&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-25T20:18:08+08:00</dc:date>
+        <dc:creator>billzhonggz</dc:creator>
+        <title>uic101:how-to-get - [自驾前往] </title>
+        <link>http://wiki.uiccst.com/uic101:how-to-get?rev=1532521088&amp;do=diff</link>
+        <description>本页面更新于2018年7月11日。本页面具有时效性。我们尽力使页面的内容尽量贴近实际情况，但无法确保页面所介绍的内容完全符合实际情况。如页面的介绍与实际情况有出入，请以实际情况为准，并给予我们反馈。</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/ds101:course?rev=1532279400&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-23T01:10:00+08:00</dc:date>
+        <dc:creator>doughnut</dc:creator>
+        <title>ds101:course</title>
+        <link>http://wiki.uiccst.com/ds101:course?rev=1532279400&amp;do=diff</link>
+        <description>本页内容已经根据最新发布的新生手册更新
+DS: 课程设置
+
+根据 2017级在校生手册，DS学生大学期间需要获得132个学分。
+ 课程分类         学分          Major Required Courses(专业必修课)  42  Major Elective Courses(专业选修课)</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/cst101:course?rev=1532279375&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-23T01:09:35+08:00</dc:date>
+        <dc:creator>doughnut</dc:creator>
+        <title>cst101:course</title>
+        <link>http://wiki.uiccst.com/cst101:course?rev=1532279375&amp;do=diff</link>
+        <description>本页内容已经根据最新发布的新生手册更新
+CST: 课程设置
+
+根据 2017级在校生手册，CST学生大学期间需要获得132个学分。
+ 课程分类         学分          Major Required Courses(专业必修课)  42  Major Elective Courses(专业选修课)</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:newstu?rev=1532110338&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T02:12:18+08:00</dc:date>
+        <dc:creator>doughnut</dc:creator>
+        <title>uic101:newstu</title>
+        <link>http://wiki.uiccst.com/uic101:newstu?rev=1532110338&amp;do=diff</link>
+        <description>迎新營 New Student Orientation
+
+新生开学第一天，丰富多彩的迎新营也随之拉开帷幕。你们会问，迎新营要做些什么？UIC迎新营是一种体验式的教育方式，是UIC全人教育的体现，为了帮助新生快速了解学校、认识自我、规划未来而举办的系列活动。迎新营将帮助新生更好更快地融入大学生活。</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:clubs?rev=1532110270&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T02:11:10+08:00</dc:date>
+        <dc:creator>doughnut</dc:creator>
+        <title>uic101:clubs - [社團分類] </title>
+        <link>http://wiki.uiccst.com/uic101:clubs?rev=1532110270&amp;do=diff</link>
+        <description>UIC社團
+
+2017-2018學年星級社團評選結果（以下順序 為評選得分的具體排名）
+
+「 五星級社團 FIVE STAR INTEREST CLUBS 」
+
+	*  UIC 创行 UIC Enactus
+	*  UIC 创联慈善公益社 United Innovation Charity Club
+	*  UIC 传统艺术文化体验社 UIC Traditional Arts Club</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:eep?rev=1532109973&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T02:06:13+08:00</dc:date>
+        <dc:creator>doughnut</dc:creator>
+        <title>uic101:eep - 创建</title>
+        <link>http://wiki.uiccst.com/uic101:eep?rev=1532109973&amp;do=diff</link>
+        <description>新生英語浸泡營 English Enhancement Programme(EEP)
+
+UIC offers an English enhancement programme(EEP) for all first year students. The EEP takes place at the beginning of each academic year and is designed to assist new students in adjusting to UIC’s English language learning environment. The programme is intended to dramatically enhance student’s English within a short period of time, in an interesting and interactive manner.
+The EEP primarily focus on developing the four major language skills, listenin…</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=untitled-1.png&amp;ns=&amp;rev=1531923511&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-18T22:18:31+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>untitled-1.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=untitled-1.png&amp;ns=&amp;rev=1531923511&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/untitled-1.png?w=500&amp;h=100&amp;t=1531923511&amp;amp;tok=64e8f9&quot; alt=&quot;untitled-1.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=ds.png&amp;ns=&amp;rev=1531494262&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T23:04:22+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>ds.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=ds.png&amp;ns=&amp;rev=1531494262&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/ds.png?w=499&amp;h=140&amp;t=1531494262&amp;amp;tok=d5f61c&quot; alt=&quot;ds.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=cst.png&amp;ns=&amp;rev=1531494248&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T23:04:08+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>cst.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=cst.png&amp;ns=&amp;rev=1531494248&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/cst.png?w=499&amp;h=140&amp;t=1531494248&amp;amp;tok=dbd7a4&quot; alt=&quot;cst.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=uic.png&amp;ns=&amp;rev=1531494187&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T23:03:07+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>uic.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=uic.png&amp;ns=&amp;rev=1531494187&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/uic.png?w=499&amp;h=140&amp;t=1531494187&amp;amp;tok=129b1a&quot; alt=&quot;uic.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=wiki%3Auic_cds.png&amp;ns=wiki&amp;rev=1531493266&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T22:47:46+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>wiki:uic_cds.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=wiki%3Auic_cds.png&amp;ns=wiki&amp;rev=1531493266&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/wiki:uic_cds.png?w=500&amp;h=73&amp;t=1531493266&amp;amp;tok=934341&quot; alt=&quot;wiki:uic_cds.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A%E4%B8%93%E5%AD%A6.png&amp;ns=share&amp;rev=1506607762&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T22:09:22+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:专学.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A%E4%B8%93%E5%AD%A6.png&amp;ns=share&amp;rev=1506607762&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/share:%E4%B8%93%E5%AD%A6.png?w=383&amp;h=500&amp;t=1506607762&amp;amp;tok=ace4dd&quot; alt=&quot;share:专学.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A6.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T21:11:45+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:6.pdf - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A6.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A4.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T21:11:45+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:4.pdf - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A4.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A5.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T21:11:45+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:5.pdf - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A5.pdf&amp;ns=share&amp;rev=1506604305&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A3-1.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T21:11:44+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:3-1.pdf - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A3-1.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A1.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T21:11:44+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:1.pdf - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A1.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=share%3A3-2.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-28T21:11:44+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>share:3-2.pdf - 创建</title>
+        <link>http://wiki.uiccst.com/?image=share%3A3-2.pdf&amp;ns=share&amp;rev=1506604304&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=wiki%3Aicon.png&amp;ns=wiki&amp;rev=1499147086&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-04T13:44:46+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>wiki:icon.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=wiki%3Aicon.png&amp;ns=wiki&amp;rev=1499147086&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/wiki:icon.png?w=300&amp;h=100&amp;t=1502436219&amp;amp;tok=aeef59&quot; alt=&quot;wiki:icon.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/?image=wiki%3Aiconuic.png&amp;ns=wiki&amp;rev=1499147085&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-04T13:44:45+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>wiki:iconuic.png - 创建</title>
+        <link>http://wiki.uiccst.com/?image=wiki%3Aiconuic.png&amp;ns=wiki&amp;rev=1499147085&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://wiki.uiccst.com/_media/wiki:iconuic.png?w=300&amp;h=100&amp;t=1502436220&amp;amp;tok=d1d1ee&quot; alt=&quot;wiki:iconuic.png&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

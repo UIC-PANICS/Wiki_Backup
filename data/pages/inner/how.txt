@@ -1,0 +1,45 @@
+====== 如何使用Wiki插件 ======
+
+<callout type="info" icon="glyphicon glyphicon-th-list">
+如何使用 UICcst Wiki 的附加插件
+</callout>
+
+UICcst Wiki 中安装了许多的第三方插件，有用于页面重定向的，有用于插入Bootstrap样式的。这里将分别解释插件的基础用法，以方便大家使用。
+
+===== Tag System =====
+<callout type="tip">Wiki推荐你在编写文章时使用标签系统，因为这有助于整理同类页面</callout>
+{{tag>方法 inner}}
+本页已经添加了便签：**方法**和**inner**，标签会显示在右上角（黑色为自定义标签，蓝色为页面的分类和名称）
+  {{tag>方法 inner}}
+语法显示在上方代码框中，在尖括号后输入标签，用空格隔开。
+
+**为了文本的整洁性，使用时，请将代码至于文档的顶部或底部。**
+===== GOTO(Redirect) =====
+此插件用于页面重定向，如果某页面可以和另一页面合并，可以将被合并页面内容清空并，留下下方代码块内的内容。
+  ~~REDIRECT>[对应页面]~~
+  
+例如
+  ~~REDIRECT>inner:todo~~
+  
+该页面将会转跳至[[inner:todo|待办事项]]的页面，并在顶部显示**You were redirected here from management:admin:todo.**。
+
+效果体验可以点击连接：[[management:admin:todo|]]
+
+===== Discussion Plugin =====
+讨论插件可以在页面底部显示留言栏，可以用于读者互动、让读者提出问题、获取读者提出意见。
+系统后台默认不在页面中显示评论框，但是你可以手动添加，添加位置应该为所有文本的最下方。
+  ~~DISCUSSION~~
+这个上面代码块中语句可以在页面中显示评论框
+
+  ~~DISCUSSION:off~~
+这段代码表示此页面不显示评论框  
+
+  ~~DISCUSSION:closed~~
+此代码表示显示评论框，但是不允许添加新的评论。
+
+评论功能可以到：[[discussion:welcomepage|首页讨论页面]]进行体验
+
+===== Translation Plugin =====
+除编辑页面和管理页面外，你能在每个页面右上角看到一个国旗，如果你想为你的话题页面添加英文版本，可以在页面下选择英国国旗并进行编辑。
+
+注：首页已支持英文版本的。

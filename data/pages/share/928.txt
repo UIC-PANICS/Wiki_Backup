@@ -1,0 +1,27 @@
+{{tag>经验分享会 resources CST DS}}
+{{:uiccst.png?600|}}
+====== 2017年计算机类经验分享会（9.28） ======
+
+组织：2017CDS朋辈导师
+
+协助：UICcst 专学 / Dr. Weifeng Su / 各位Y2,Y3,Y4的学长学姐
+
+----
+
+
+^ 出场顺序(binary)        ^ 分享嘉宾（年级）         ^ 幻灯片         ^ 
+| 000 | 余文乐（Y2） | [[http://dl.drjchn.com/documents/1.pdf|Download]] |
+| 001 | 邝冰然（Y4） | 稍后更新 |
+| 010 | 刘曌曌（Y4） | [[http://dl.drjchn.com/documents/3-1.pdf|Download 1]] [[http://dl.drjchn.com/documents/3-2.pdf|Download 2]] |
+| 011 | 邓杰、叶广贤、贾浩然（Y3） | [[http://qcloud.demonist.top/documents/4.pdf|Download]] |
+| 100 | 姚舜禹（Y4） | [[http://dl.drjchn.com/documents/5.pdf|Download]] |
+| 101 | 王安博（Y2） | [[http://dl.drjchn.com/documents/6.pdf|Download]] |
+
+----
+
+小广告区：
+
+**欢迎加入计算机类专业学会**
+
+----
+===2018年計算機類經驗分享會 敬請期待===

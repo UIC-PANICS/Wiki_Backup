@@ -1,0 +1,32 @@
+{{tag>首页 homepage CDS}}
+{{:wiki:uic_cds.png?800|}}
+====== UICcds Wiki ======
+
+
+欢迎来到**北京师范大学-香港浸会大学 联合国际学院** | 计算机类的 Wiki 页面.
+
+<html><a href="./share:928"><font color="#ff6666" size="+1"><b><u>计算机类经验分享会资料</b></u></font></a></html>
+
+  * [[https://www.uiccst.com|UICcst 专学官方网站]]
+  * [[http://dst.uic.edu.hk/en/cst|UIC 计算机科学专业官方网站]]
+  * [[http://dst.uic.edu.hk/cn/data-science|UIC 数据科学专业官方网站]]
+  * [[https://github.com/uic-panics|UIC-PANICS 官方 GitHub 组织]]
+
+如果你有相关问题，欢迎提出：[[discussion:welcomepage|WelcomePage讨论页]]
+
+{{ :uiccstqr.png?150|UICcst 专学微信公众号}}
+
+
+----
+
+<HTML><a href="https://wiki.uiccst.com/uic101:welcomePage"><img src="https://wiki.uiccst.com/lib/exe/fetch.php?media=:uic.png" style="width:300px;"></a></HTML>
+
+<HTML><a href="https://wiki.uiccst.com/cst101:welcomePage"><img src="https://wiki.uiccst.com/lib/exe/fetch.php?media=:cst.png" style="width:300px;"></a></HTML>
+
+<HTML><a href="https://wiki.uiccst.com/ds101:welcomePage"><img src="https://wiki.uiccst.com/lib/exe/fetch.php?media=:ds.png" style="width:300px;"></a></HTML>
+----
+
+
+{{::untitled-1.png?600|}}
+
+~~DISCUSSION:off~~

@@ -1,0 +1,142 @@
+<alert type="warning" icon="glyphicon glyphicon-info-sign">本页内容已经根据最新发布的新生手册更新</alert>
+
+====== CST: 课程设置 ======
+
+根据 [[download:undergraduate-handbook|2017级在校生手册]]，CST学生大学期间需要获得132个学分。
+
+^ 课程分类        ^ 学分         ^ 
+| Major Required Courses(专业必修课) | 42 |
+| Major Elective Courses(专业选修课) | 18 |
+| General Education Required Courses(通识教育核心课) | 32 |
+| General Education Distribution Courses(通识教育分类选修课) | 12 |
+| Whole Person Education Experiential Learning Modules(全人教育体验学习课程) | 4 |
+| Free Elective Courses(自由选修课) | 24 |
+| Total  | **132** |
+
+
+===== Major Required Courses(专业必修课) ===== 
+
+专业必修课，除**软件开发工作坊**为一学分，其他为三学分。
+
+具体课程如下：
+^ English Title ^ Chinese Title ^ Unit(s) ^
+| Computer Organisation | 计算机组织 | 3 | 
+| Structured Programming | 结构化编程 | 3 |
+| Data Structures and Algorithms | 数据结构和算法 | 3 |
+| Object-Oriented Programming | 面对对象编程 | 3 |
+| Software Development Workshop I | 软件开发工作坊 Ⅰ | 1 |
+| Data Communications and Networking | 数据通信与网络 | 3 |
+| Database Management Systems | 数据库管理系统 | 3 |
+| Design and Analysis of Algorithms | 算法设计与分析 | 3 |
+| Operating Systems | 操作系统 | 3 |
+| Software Development Workshop Ⅱ | 软件开发工作坊 Ⅱ | 1 |
+| Software Development Workshop Ⅲ | 软件开发工作坊 Ⅲ | 1 |
+| Software Engineering | 软件工程 | 3 |
+| Final Year Project I | 毕业设计 Ⅰ | 3 |
+| Linear Algebra | 线性代数 | 3 |
+| Discrete Structures | 离散结构  | 3 |
+| Calculus Ⅰ | 微积分 Ⅰ | 3 |
+^ Total | 合计 | **42** |
+===== Major Elective Courses(专业选修课) =====
+
+学生要求选修6门专业选修课，其中4门必须在**Data Analytic Technology**或**Digital Media Communication Technology**类中选择。
+
+^ English Title ^ Chinese Title ^ Units^
+^   Data Analytic Technology   ^
+| Numerical Computation | 数值计算 | 3 |
+| Compiler Construction | 编译原理 | 3 |
+| Cloud Computing | 云计算 | 3 |
+| Theory of Computation | 计算理论 | 3 |
+| Computer and Network Security | 计算机和网络安全 | 3 |
+| Data Mining and Knowledge Discovery | 数据挖掘与知识发现 | 3 |
+| Database System Implementation | 数据库系统开发 | 3 |
+| Digital Media Computing | 数字媒体计算 | 3 |
+| Distributed Computing Systems | 分布式计算系统 | 3 |
+| E-technology Architectures, Tools and Applications | E-技术结构、工具和应用 | 3 |
+| Internet and the World Wide Web | 互联网及万维网 | 3 |
+| Artificial Intelligence and Machine Learning | 人工智能和机器学习 | 3 |
+| Information Retrieval and Search Engine | 信息检索及引擎搜索 | 3 |
+| Introduction to Web Intelligence | 万维网智能简介 | 3 |
+^    Data Media Communication Technology Stream    ^
+| Numerical Computation | 数值计算 | 3 |
+| Compiler Construction | 编译原理 | 3 |
+| Cloud Computing | 云计算 | 3 |
+| Theory of Computation | 计算理论 | 3 |
+| Computer and Network Security | 计算机和网络安全 | 3 |
+| Computer Graphics | 计算机图形 | 3 |
+| Data Mining and Knowledge Discovery | 数据发掘与知识发现 | 3 |
+| Database System Implementation | 数据库系统开发 | 3 |
+| Digital Media Computing | 数字媒体计算 | 3 |
+| Distributed Computing Systems | 分布式计算系统 | 3 |
+| Internet and the World Wide Web | 互联网及万维网 | 3 |
+| Computer Vision and Pattern Recognition | 计算机视觉和模式识别 | 3 |
+^   Other Common Major Elective Courses   ^
+| Introduction to Robotics | 机器人技术导论 | 3 |
+| Design Patterns | 设计模式 | 3 |
+| Software Testing | 软件测试 | 3 |
+| Mobile Application Development | 移动平台应用开发 | 3 |
+| Financial Computing | 金融计算 | 3 |
+| Theory of Computation | 计算理论 | 3 |
+| Final Year Project II (COMP)<sup>*</sup> | 毕业论文II | 3 |
+| System Analysis and Design | 系统分析与设计 | 3 |
+| Calculus II | 微积分II | 3 |
+
+
+===== General Education Programme(通识教育课) =====
+
+所有的UIC学生都需要完成48个学分的通识教育课程（修满才允许毕业）。
+
+课程分为三类：
+  * GE必修课程，如统计漫谈(Speaking of Mathematics), 信息技术在日常的运用(IT for success of Everyday life and work).
+  * GED 课程
+  * 自由选修课
+
+
+
+====General Education Core (GEC) Requirements====
+
+|GEC requirements|Units|
+|English Courses<sup>[1]</sup>|12|
+|Chinese Courses<sup>[2]</sup>||
+|Information Management Technology<sup>[3]</sup>|3|
+|Numeracy<sup>[3]</sup>|3|
+|Values and the Meaning of Life/Applied Ethics/Business Ethics<sup>[4]</sup>|3|
+|Physical Education<sup>[5]</sup>|2|
+^Total^32^
+
+[1] Courses in this category include: English I, English II, English III including Public Speaking and Academic Reading and Writing (ARW), all of which are to be offered by the English Language Centre.
+
+[2] Courses in this category include University Chinese, Chinese Thought through the Ages, Selected Themes in Chinese History and Civilization, to be offered by the Chinese Language and Culture Centre.
+
+[3] Courses in this category include IT for Success in Everyday Life and Work, Speaking of Mathematics, Mathematics Around Us, and Speaking of Statistics, to be offered by the Division of Science and Technology.
+
+[4] Courses in this category include Business Ethics, Applied Ethics in Humanities and Social Sciences, and Applied Ethics in Science and Technology, to be offered by the three divisions.
+
+[5] Physical Education will be offered by the Whole Person Education Office.
+
+
+====General Education Distribution (GED) Requirements====
+
+|GED requirements|Units|
+|Foundation Course in Business and Management<sup>[1]</sup>|3<sup>*</sup>|
+|Foundation Course in Humanities and Social Sciences<sup>[2]</sup>|3<sup>*</sup>|
+|Foundation Course in Science and Technology<sup>[3]</sup>|3|
+|Foundation Course in World History and Civilization<sup>[4]</sup>|3<sup>*</sup>|
+|Foundation Course in Foreign Languages<sup>[5]</sup>|3|
+|WPEX Modules<sup>[6]</sup>|4|
+^Total^16^
+
+[1] Courses offered by the Division of Business and Management include Business and Society, Introduction to Entrepreneurship and Innovation.
+
+[2] Courses offered by the Division of Humanities and Social Sciences include Language, Media and Culture and Government and Society.
+
+[3] Courses offered by the Division of Science and Technology include Science of Wellbeing and, Power of Science and Technology.
+
+[4] Courses are offered by the GEO include Modern Europe, Modern European Thought and Culture, Contemporary America History, The Emergence of Modern America.
+
+[5] Five language courses at year-1 level in French, German, Korean, Japanese, and Spanish, offered by the Centre for Foreign Languages and Cultures, Division of Humanities and Social Sciences.
+
+[6] [[cds101:WPE|全人教育体验课程]]
+==== 自由选修课 ====
+
+共24个自由选修课学分

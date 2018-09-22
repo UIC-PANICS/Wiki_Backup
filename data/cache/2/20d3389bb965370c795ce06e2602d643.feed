@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcds Wiki</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-09-21T03:55:09+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/download?rev=1503451880&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/faq?rev=1531418330&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/sidebar?rev=1502436129&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/welcomepage?rev=1531923521&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcds Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/download?rev=1503451880&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-23T09:31:20+08:00</dc:date>
+        <title>download</title>
+        <link>http://wiki.uiccst.com/download?rev=1503451880&amp;do=diff</link>
+        <description>Downloads
+
+这里有一些学校里常用文件的下载
+
+UIC：校历
+
+Undergraduate Handbook
+
+常用表单</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/faq?rev=1531418330&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T01:58:50+08:00</dc:date>
+        <title>faq</title>
+        <link>http://wiki.uiccst.com/faq?rev=1531418330&amp;do=diff</link>
+        <description>常见问题
+
+本页面收集了一些关于UIC以及UICCst的常见问题。
+
+关于UIC
+
+	*  什么是新生浸泡营？ What is EEP？
+	*  关于外语基础课 About Foundation Course in a Foreign Language
+	*  
+
+关于UICCst</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/sidebar?rev=1502436129&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:22:09+08:00</dc:date>
+        <title>sidebar</title>
+        <link>http://wiki.uiccst.com/sidebar?rev=1502436129&amp;do=diff</link>
+        <description>*  UICcst Wiki 首页
+
+----------
+
+ Editor Portal (Limited)</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/welcomepage?rev=1531923521&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-18T22:18:41+08:00</dc:date>
+        <title>welcomepage</title>
+        <link>http://wiki.uiccst.com/welcomepage?rev=1531923521&amp;do=diff</link>
+        <description>首页 homepage cds
+
+
+
+UICcds Wiki
+
+欢迎来到北京师范大学-香港浸会大学 联合国际学院 | 计算机类的 Wiki 页面.
+
+
+
+	*  UICcst 专学官方网站
+	*  UIC 计算机科学专业官方网站
+	*  UIC 数据科学专业官方网站
+	*  UIC-PANICS 官方 GitHub 组织
+
+如果你有相关问题，欢迎提出：WelcomePage讨论页
+
+[UICcst 专学微信公众号]
+
+----------
+
+----------</description>
+    </item>
+</rdf:RDF>

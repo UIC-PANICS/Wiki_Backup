@@ -1,0 +1,13 @@
+===== Undergraduate Handbook =====
+
+这个文件包含四年大学中需要学习的课程以及各课程学分等信息
+
+[[http://drive.uiccst.com/documents/207-217%20CST_20170907.pdf|Undergraduate Handbook 2017 CST]]
+
+[[http://drive.uiccst.com/documents/219-228%20DS_20170907.pdf|Undergraduate Handbook 2017 DS]]
+
+[[http://drive.uiccst.com/documents/2016%20197-206%20CST.pdf|Undergraduate Handbook 2016]]
+
+[[http://drive.uiccst.com/documents/179-188 CST 2016.07.22- revised.pdf|Undergraduate Handbook 2015]]
+
+[[http://drive.uiccst.com/documents/179-188 CST 2016.7.22 revised.pdf|Undergraduate Handbook 2014]]

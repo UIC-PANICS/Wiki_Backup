@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcds Wiki uic101</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-09-09T21:44:47+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:clubs?rev=1532110270&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:eep?rev=1532109973&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:geontran?rev=1531217382&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:gpa?rev=1502436230&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:how-to-get?rev=1532521088&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:mcp?rev=1531499029&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:memo?rev=1504258335&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:memo911?rev=1505222710&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:newstu?rev=1532110338&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:scholarship?rev=1502436230&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:tel?rev=1502436230&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/uic101:welcomepage?rev=1532108360&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcds Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/uic101:clubs?rev=1532110270&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T02:11:10+08:00</dc:date>
+        <title>uic101:clubs</title>
+        <link>http://wiki.uiccst.com/uic101:clubs?rev=1532110270&amp;do=diff</link>
+        <description>UIC社團
+
+2017-2018學年星級社團評選結果（以下順序 為評選得分的具體排名）
+
+「 五星級社團 FIVE STAR INTEREST CLUBS 」
+
+	*  UIC 创行 UIC Enactus
+	*  UIC 创联慈善公益社 United Innovation Charity Club
+	*  UIC 传统艺术文化体验社 UIC Traditional Arts Club</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:eep?rev=1532109973&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T02:06:13+08:00</dc:date>
+        <title>uic101:eep</title>
+        <link>http://wiki.uiccst.com/uic101:eep?rev=1532109973&amp;do=diff</link>
+        <description>新生英語浸泡營 English Enhancement Programme(EEP)
+
+UIC offers an English enhancement programme(EEP) for all first year students. The EEP takes place at the beginning of each academic year and is designed to assist new students in adjusting to UIC’s English language learning environment. The programme is intended to dramatically enhance student’s English within a short period of time, in an interesting and interactive manner.
+The EEP primarily focus on developing the four major language skills, listenin…</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:geontran?rev=1531217382&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-10T18:09:42+08:00</dc:date>
+        <title>uic101:geontran</title>
+        <link>http://wiki.uiccst.com/uic101:geontran?rev=1531217382&amp;do=diff</link>
+        <description>本页面更新于2018年7月10日本页面具有时效性。我们尽力使页面的内容尽量贴近实际情况，但无法确保页面所介绍的内容完全符合实际情况。如页面的介绍与实际情况有出入，请以实际情况为准，并给予我们反馈。</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:gpa?rev=1502436230&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:50+08:00</dc:date>
+        <title>uic101:gpa</title>
+        <link>http://wiki.uiccst.com/uic101:gpa?rev=1502436230&amp;do=diff</link>
+        <description>GPA制度
+
+学分与学业负担
+
+一门课程所含有的学分与你参加这门课后，需要付出的学习时间有关。一般来说，一门一学分的课程代表每周一次50分钟的讲座；或是每周两次50分钟的学习或实验室课程。全日制学生的最低的学业负担为每学期15个学分（大四学生除外）。</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:how-to-get?rev=1532521088&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-25T20:18:08+08:00</dc:date>
+        <title>uic101:how-to-get</title>
+        <link>http://wiki.uiccst.com/uic101:how-to-get?rev=1532521088&amp;do=diff</link>
+        <description>本页面更新于2018年7月11日。本页面具有时效性。我们尽力使页面的内容尽量贴近实际情况，但无法确保页面所介绍的内容完全符合实际情况。如页面的介绍与实际情况有出入，请以实际情况为准，并给予我们反馈。</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:mcp?rev=1531499029&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-14T00:23:49+08:00</dc:date>
+        <title>uic101:mcp</title>
+        <link>http://wiki.uiccst.com/uic101:mcp?rev=1531499029&amp;do=diff</link>
+        <description>MCP 导师关顾计划
+
+背景介绍
+
+在希腊神话中，Mentor 是位老人，他受托于奥迪西斯 (Odysseus)，成为他儿子的老师和朋友。Mentor 这字的现代解释，是启蒙导师，是亦师亦友、对你忠心、关心的智者。在古希腊史诗《奥德赛》的几个场景中，智慧与技艺的女神阿西娜假以 Mentor 形式给建议予奥迪西斯和他儿子。Mentor 已被广泛地当成</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:memo?rev=1504258335&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-01T17:32:15+08:00</dc:date>
+        <title>uic101:memo</title>
+        <link>http://wiki.uiccst.com/uic101:memo?rev=1504258335&amp;do=diff</link>
+        <description>如有任何疑问，可拨打学生事务处热线电话进行咨询：0756-3620211（8:30-12:00，13:00-17:30）。
+为防止热线线路繁忙，也欢迎新生及家长将问题反馈至邮箱slcdt@uic.edu.hk
+
+关于新生延期报到注册的备忘录</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:memo911?rev=1505222710&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-12T21:25:10+08:00</dc:date>
+        <title>uic101:memo911</title>
+        <link>http://wiki.uiccst.com/uic101:memo911?rev=1505222710&amp;do=diff</link>
+        <description>关于新生报到注册安排修改的备忘录
+学校于 2017 年 9 月 11 日傍晚通过官方微信公众号（联合国际学院UIC）发布了《风雨同行 迎你如初 | 新生开学安排部分有调整》的公众号文章，文章宣布 “学校经过再三考量，**决定维持入宿日期不变，因此只能对新生的开学安排做出部分调整。”</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:newstu?rev=1532110338&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T02:12:18+08:00</dc:date>
+        <title>uic101:newstu</title>
+        <link>http://wiki.uiccst.com/uic101:newstu?rev=1532110338&amp;do=diff</link>
+        <description>迎新營 New Student Orientation
+
+新生开学第一天，丰富多彩的迎新营也随之拉开帷幕。你们会问，迎新营要做些什么？UIC迎新营是一种体验式的教育方式，是UIC全人教育的体现，为了帮助新生快速了解学校、认识自我、规划未来而举办的系列活动。迎新营将帮助新生更好更快地融入大学生活。</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:scholarship?rev=1502436230&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:50+08:00</dc:date>
+        <title>uic101:scholarship</title>
+        <link>http://wiki.uiccst.com/uic101:scholarship?rev=1502436230&amp;do=diff</link>
+        <description>根据往年数据整理而出，仅供参考，如与官网数据有出入，请以官网为准
+UIC奖学金制度
+
+为嘉奖一批学业成绩优秀及各个方面均表现优异的学生，UIC设置了以下奖学金/助学金用以鼓励同学们</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:tel?rev=1502436230&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:50+08:00</dc:date>
+        <title>uic101:tel</title>
+        <link>http://wiki.uiccst.com/uic101:tel?rev=1502436230&amp;do=diff</link>
+        <description>联系电话
+部门 联系电话 教务处	  0756-3620303/207  招生办公室  0756-3620011 / 022 / 033 / 044  英语语言中心  0756-3620822  财务处  0756-3620089  四维教育协调处  0756-3620162  信息科技服务中心  0756-3620315  综合服务办事处</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/uic101:welcomepage?rev=1532108360&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-21T01:39:20+08:00</dc:date>
+        <title>uic101:welcomepage</title>
+        <link>http://wiki.uiccst.com/uic101:welcomepage?rev=1532108360&amp;do=diff</link>
+        <description>UIC 101
+
+这里会介绍有关UIC相关的信息，如果你想了解更多，可以在WelcomePage讨论页提出。
+
+UIC: 迎新营
+
+UIC: GPA 制度
+
+UIC: MCP 导师关顾计划
+
+UIC: 奖学金制度
+
+UIC: 地理与交通
+
+UIC: 如何前往学校
+
+UIC：联系电话
+
+ UIC：社团</description>
+    </item>
+</rdf:RDF>

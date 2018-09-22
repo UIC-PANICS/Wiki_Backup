@@ -1,0 +1,98 @@
+
+<h1 class="sectionedit1" id="如何使用wiki插件">如何使用Wiki插件</h1>
+<div class="level1">
+<div class="bs-wrap bs-callout bs-callout-info"><div class="row"><div class="col-xs-1"><i class="bs-callout-icon glyphicon glyphicon-th-list"></i></div><div class="col-xs-11">如何使用 UICcst Wiki 的附加插件
+</div></div></div>
+<p>
+UICcst Wiki 中安装了许多的第三方插件，有用于页面重定向的，有用于插入Bootstrap样式的。这里将分别解释插件的基础用法，以方便大家使用。
+</p>
+
+</div>
+<!-- EDIT1 SECTION "如何使用Wiki插件" [1-336] -->
+<h2 class="sectionedit2" id="tag_system">Tag System</h2>
+<div class="level2">
+<div class="bs-wrap bs-callout bs-callout-tip">Wiki推荐你在编写文章时使用标签系统，因为这有助于整理同类页面</div><div class="tags"><span>
+	<a href="/tag:%E6%96%B9%E6%B3%95?do=showtag&amp;tag=%E6%96%B9%E6%B3%95" class="wikilink1" title="tag:方法" rel="tag">方法</a>,
+	<a href="/tag:inner?do=showtag&amp;tag=inner" class="wikilink1" title="tag:inner" rel="tag">inner</a>
+</span></div>
+
+<p>
+本页已经添加了便签：<strong>方法</strong>和<strong>inner</strong>，标签会显示在右上角（黑色为自定义标签，蓝色为页面的分类和名称）
+</p>
+<pre class="code">{{tag&gt;方法 inner}}</pre>
+
+<p>
+语法显示在上方代码框中，在尖括号后输入标签，用空格隔开。
+</p>
+
+<p>
+<strong>为了文本的整洁性，使用时，请将代码至于文档的顶部或底部。</strong>
+</p>
+
+</div>
+<!-- EDIT2 SECTION "Tag System" [337-846] -->
+<h2 class="sectionedit3" id="goto_redirect">GOTO(Redirect)</h2>
+<div class="level2">
+
+<p>
+此插件用于页面重定向，如果某页面可以和另一页面合并，可以将被合并页面内容清空并，留下下方代码块内的内容。
+</p>
+<pre class="code">~~REDIRECT&gt;[对应页面]~~</pre>
+
+<p>
+例如
+</p>
+<pre class="code">~~REDIRECT&gt;inner:todo~~</pre>
+
+<p>
+该页面将会转跳至<a href="/inner:todo" class="wikilink1" title="inner:todo">待办事项</a>的页面，并在顶部显示<strong>You were redirected here from management:admin:todo.</strong>。
+</p>
+
+<p>
+效果体验可以点击连接：<a href="/management:admin:todo" class="wikilink1" title="management:admin:todo">todo</a>
+</p>
+
+</div>
+<!-- EDIT3 SECTION "GOTO(Redirect)" [847-1302] -->
+<h2 class="sectionedit4" id="discussion_plugin">Discussion Plugin</h2>
+<div class="level2">
+
+<p>
+讨论插件可以在页面底部显示留言栏，可以用于读者互动、让读者提出问题、获取读者提出意见。
+系统后台默认不在页面中显示评论框，但是你可以手动添加，添加位置应该为所有文本的最下方。
+</p>
+<pre class="code">~~DISCUSSION~~</pre>
+
+<p>
+这个上面代码块中语句可以在页面中显示评论框
+</p>
+<pre class="code">~~DISCUSSION:off~~</pre>
+
+<p>
+这段代码表示此页面不显示评论框  
+</p>
+<pre class="code">~~DISCUSSION:closed~~</pre>
+
+<p>
+此代码表示显示评论框，但是不允许添加新的评论。
+</p>
+
+<p>
+评论功能可以到：<a href="/discussion:welcomepage" class="wikilink1" title="discussion:welcomepage">首页讨论页面</a>进行体验
+</p>
+
+</div>
+<!-- EDIT4 SECTION "Discussion Plugin" [1303-1922] -->
+<h2 class="sectionedit5" id="translation_plugin">Translation Plugin</h2>
+<div class="level2">
+
+<p>
+除编辑页面和管理页面外，你能在每个页面右上角看到一个国旗，如果你想为你的话题页面添加英文版本，可以在页面下选择英国国旗并进行编辑。
+</p>
+
+<p>
+注：首页已支持英文版本的。
+</p>
+
+</div>
+<!-- EDIT5 SECTION "Translation Plugin" [1923-] -->

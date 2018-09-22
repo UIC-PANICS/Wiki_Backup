@@ -1,0 +1,8 @@
+===== CST 101 =====
+
+这里会介绍有关计算机科学相关的信息，如果你想了解更多，可以在[[discussion:welcomepage|WelcomePage讨论页]]提出。
+
+
+[[cst101:about|CST: 计算机科学与技术]]
+
+[[cst101:course|CST: 课程设置]]

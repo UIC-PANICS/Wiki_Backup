@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.uiccst.com/feed.php">
+        <title>UICcst Wiki</title>
+        <description></description>
+        <link>https://wiki.uiccst.com/</link>
+        <image rdf:resource="https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2017-08-07T00:39:12+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/welcomepage?rev=1500468025&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:welcomepage?rev=1500467500&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/cst101:course?rev=1499599887&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/faq?rev=1499569159&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:geontran?rev=1499440207&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/?image=wiki%3Aicon.png&amp;ns=wiki&amp;rev=1499147086&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/?image=wiki%3Aiconuic.png&amp;ns=wiki&amp;rev=1499147085&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/?image=wiki%3Apanics.png&amp;ns=wiki&amp;rev=1498215085&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/?image=cst101%3A2016_197-206_cst_1_.pdf&amp;ns=cst101&amp;rev=1498111037&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/?image=uiccstqr.png&amp;ns=&amp;rev=1498110480&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/?image=uiccst.png&amp;ns=&amp;rev=1498104448&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcst Wiki</title>
+        <link>https://wiki.uiccst.com/</link>
+        <url>https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.uiccst.com/welcomepage?rev=1500468025&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-19T20:40:25+08:00</dc:date>
+        <dc:creator>renjie</dc:creator>
+        <title>welcomepage</title>
+        <link>https://wiki.uiccst.com/welcomepage?rev=1500468025&amp;do=diff</link>
+        <description>首页 homepage cst
+
+
+
+UICcst Wiki
+
+欢迎来到北京师范大学-香港浸会大学 联合国际学院 | 计算机科学与技术专业的 Wiki页面.
+
+	*  UICcst 专学官方网站
+	*  UIC 计算机专业官方网站
+	*  UIC-PANICS 官方 GitHub 组织
+	*  UIC 2017-2018学年校历
+
+如果你有相关问题，欢迎提出：WelcomePage讨论页
+
+[UICcst 专学微信公众号]
+
+----------
+
+----------</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:welcomepage?rev=1500467500&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-19T20:31:40+08:00</dc:date>
+        <dc:creator>renjie</dc:creator>
+        <title>uic101:welcomepage</title>
+        <link>https://wiki.uiccst.com/uic101:welcomepage?rev=1500467500&amp;do=diff</link>
+        <description>UIC 101
+
+这里会介绍有关UIC相关的信息，如果你想了解更多，可以在WelcomePage讨论页提出。
+
+UIC: GPA 制度
+
+UIC: MCP 导师关顾计划
+
+UIC: 奖学金制度
+
+UIC: 地理与交通
+
+UIC：联系电话</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/cst101:course?rev=1499599887&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-09T19:31:27+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>cst101:course - [General Education Programme(通识教育课)] </title>
+        <link>https://wiki.uiccst.com/cst101:course?rev=1499599887&amp;do=diff</link>
+        <description>本页内容根据历史数据整理，将会在最新版本信息发布后更新
+CST: 课程设置
+
+根据 [ 2016届教学手册]，CST学生大学期间需要获得132个学分。
+ 课程分类         学分          Major Required Courses(专业必修课)  42  Major Elective Courses(专业选修课)</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/faq?rev=1499569159&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-09T10:59:19+08:00</dc:date>
+        <dc:creator>billzhonggz</dc:creator>
+        <title>faq - 创建</title>
+        <link>https://wiki.uiccst.com/faq?rev=1499569159&amp;do=diff</link>
+        <description>常见问题
+
+本页面收集了一些关于UIC以及UICCst的常见问题。
+
+关于UIC
+
+关于UICCst</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:geontran?rev=1499440207&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-07T23:10:07+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>uic101:geontran - 开启评论功能</title>
+        <link>https://wiki.uiccst.com/uic101:geontran?rev=1499440207&amp;do=diff</link>
+        <description>本页面具有时效性。我们尽力使页面的内容尽量贴近实际情况，但无法确保页面所介绍的内容完全符合实际情况。如页面的介绍与实际情况有出入，请以实际情况为准，并给予我们反馈。本文介绍的是位于广东省珠海市香洲区唐家湾镇金鼎会同社区金同路2000号的UIC</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/?image=wiki%3Aicon.png&amp;ns=wiki&amp;rev=1499147086&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-04T13:44:46+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>wiki:icon.png - 创建</title>
+        <link>https://wiki.uiccst.com/?image=wiki%3Aicon.png&amp;ns=wiki&amp;rev=1499147086&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://wiki.uiccst.com/_media/wiki:icon.png?w=300&amp;h=100&amp;t=1499147086&amp;amp;tok=aeef59&quot; alt=&quot;wiki:icon.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/?image=wiki%3Aiconuic.png&amp;ns=wiki&amp;rev=1499147085&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-04T13:44:45+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>wiki:iconuic.png - 创建</title>
+        <link>https://wiki.uiccst.com/?image=wiki%3Aiconuic.png&amp;ns=wiki&amp;rev=1499147085&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://wiki.uiccst.com/_media/wiki:iconuic.png?w=300&amp;h=100&amp;t=1499147085&amp;amp;tok=d1d1ee&quot; alt=&quot;wiki:iconuic.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/?image=wiki%3Apanics.png&amp;ns=wiki&amp;rev=1498215085&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-23T18:51:25+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>wiki:panics.png - 创建</title>
+        <link>https://wiki.uiccst.com/?image=wiki%3Apanics.png&amp;ns=wiki&amp;rev=1498215085&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://wiki.uiccst.com/_media/wiki:panics.png?w=500&amp;h=75&amp;t=1498215085&amp;amp;tok=e6980a&quot; alt=&quot;wiki:panics.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/?image=cst101%3A2016_197-206_cst_1_.pdf&amp;ns=cst101&amp;rev=1498111037&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-22T13:57:17+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>cst101:2016_197-206_cst_1_.pdf - 创建</title>
+        <link>https://wiki.uiccst.com/?image=cst101%3A2016_197-206_cst_1_.pdf&amp;ns=cst101&amp;rev=1498111037&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/?image=uiccstqr.png&amp;ns=&amp;rev=1498110480&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-22T13:48:00+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>uiccstqr.png - 创建</title>
+        <link>https://wiki.uiccst.com/?image=uiccstqr.png&amp;ns=&amp;rev=1498110480&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://wiki.uiccst.com/_media/uiccstqr.png?w=500&amp;h=500&amp;t=1498110480&amp;amp;tok=d66798&quot; alt=&quot;uiccstqr.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/?image=uiccst.png&amp;ns=&amp;rev=1498104448&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-22T12:07:28+08:00</dc:date>
+        <dc:creator>ecwu</dc:creator>
+        <title>uiccst.png</title>
+        <link>https://wiki.uiccst.com/?image=uiccst.png&amp;ns=&amp;rev=1498104448&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://wiki.uiccst.com/_media/uiccst.png?w=500&amp;h=73&amp;t=1498104448&amp;amp;tok=b1cf01&quot; alt=&quot;uiccst.png&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

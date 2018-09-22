@@ -1,0 +1,9 @@
+====== Downloads ======
+
+这里有一些学校里常用文件的下载
+
+[[download:calendar|UIC：校历]]
+
+[[download:undergraduate-handbook|Undergraduate Handbook]]
+
+[[download:form|常用表单]]

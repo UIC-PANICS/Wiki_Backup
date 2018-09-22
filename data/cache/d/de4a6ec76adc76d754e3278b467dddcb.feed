@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcds Wiki ds101</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-08-15T23:34:23+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/ds101:about?rev=1531494555&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/ds101:course?rev=1532279400&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/ds101:welcomepage?rev=1531628704&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/ds101:wpe?rev=1531754276&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcds Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/ds101:about?rev=1531494555&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T23:09:15+08:00</dc:date>
+        <title>ds101:about</title>
+        <link>http://wiki.uiccst.com/ds101:about?rev=1531494555&amp;do=diff</link>
+        <description>This page is in a maintenance state
+Data Science: 数据科学与大数据技术
+
+数据科学与大数据技术专业成立于 2017 年。旨在培养从事数据管理、人工智能的创新、开发和设计工作的国际本土华复合型人才。学生需掌握大数据科学相关的基础知识，掌握大规模、多维度、分布式数据存储技术以及网络数据搜集技术，掌握格式化数据分析挖掘的基本方法与专业应用软件，具备数据建模能力，并具有数据可视化呈现能力。本专业专职教授来自多个国家和地区，均具有世界一流大学博士学位。…</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/ds101:course?rev=1532279400&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-23T01:10:00+08:00</dc:date>
+        <title>ds101:course</title>
+        <link>http://wiki.uiccst.com/ds101:course?rev=1532279400&amp;do=diff</link>
+        <description>本页内容已经根据最新发布的新生手册更新
+DS: 课程设置
+
+根据 2017级在校生手册，DS学生大学期间需要获得132个学分。
+ 课程分类         学分          Major Required Courses(专业必修课)  42  Major Elective Courses(专业选修课)</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/ds101:welcomepage?rev=1531628704&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-15T12:25:04+08:00</dc:date>
+        <title>ds101:welcomepage</title>
+        <link>http://wiki.uiccst.com/ds101:welcomepage?rev=1531628704&amp;do=diff</link>
+        <description>DS 101
+
+这里会介绍有关数据科学专业相关的信息，如果你想了解更多，可以在WelcomePage讨论页提出。
+
+DS:数据科学与大数据技术
+
+DS:课程设置</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/ds101:wpe?rev=1531754276&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-16T23:17:56+08:00</dc:date>
+        <title>ds101:wpe</title>
+        <link>http://wiki.uiccst.com/ds101:wpe?rev=1531754276&amp;do=diff</link>
+        <description>全人教育体验课程
+
+全人教育模块包含在学校课程内，以学期制课程形式存在。学习的共同内容包括团队合作、人际交往、解决问题、创造性思维、自我反思以及社会、文化意识。
+
+UIC学生必须按照以下的学习计划，至少完成4个模块的WPE课程。达到此最低要求的学生，之后可以参加特色课程，如：逆境管理或其它因课程人数限制而未能参加的课程。</description>
+    </item>
+</rdf:RDF>

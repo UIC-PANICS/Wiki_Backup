@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.uiccst.com/feed.php">
+        <title>UICcst Wiki playground</title>
+        <description></description>
+        <link>https://wiki.uiccst.com/</link>
+        <image rdf:resource="https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2017-08-06T01:11:32+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/playground:playground?rev=1488917619&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcst Wiki</title>
+        <link>https://wiki.uiccst.com/</link>
+        <url>https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.uiccst.com/playground:playground?rev=1488917619&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-03-08T04:13:39+08:00</dc:date>
+        <title>playground:playground</title>
+        <link>https://wiki.uiccst.com/playground:playground?rev=1488917619&amp;do=diff</link>
+        <description>PlayGround</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+{{tag>首页 homepage CST}}
+{{:uiccst.png?400|}}
+====== UICcst Wiki ======
+
+Welcome to the Wiki Pages of the **Beijing Normal University Hong Kong Baptist University United International College** Computer Science and Technology Major.
+
+  * [[https://www.uiccst.com|UICcst Academic Societies Official Website]]
+  * [[http://dst.uic.edu.hk/en/cst|UICcst Official Website]]
+  * [[https://github.com/uic-panics|UIC-PANICS Official GitHub Organization]]
+
+
+If you have any questions, Go to：[[en:discussion:welcomepage|WelcomePage Discussion Page]]
+
+{{ :uiccstqr.png?150|UICcst Academic Societies's WeChat Account}}
+
+
+----
+
+
+<HTML><a href="https://wiki.uiccst.com/doku.php?id=cst101:welcomePage"><img src="https://wiki.uiccst.com/lib/exe/fetch.php?media=wiki:icon.png"></a></HTML>
+
+<HTML><a href="https://wiki.uiccst.com/doku.php?id=uic101:welcomePage"><img src="https://wiki.uiccst.com/lib/exe/fetch.php?media=wiki:iconuic.png"></a></HTML>
+
+
+----
+
+
+{{ :wiki:panics.png?600 |}}
+
+~~DISCUSSION:off~~

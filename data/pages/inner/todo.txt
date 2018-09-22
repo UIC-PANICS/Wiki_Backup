@@ -1,0 +1,41 @@
+====== 待办事项 ======
+
+<callout type="info" title="UICcst Wiki - ToDo List" icon="glyphicon glyphicon-th-list">
+这里用于记录未完善和未创建的Wiki页面；编辑者可以用作索引。
+</callout>
+
+===== 待创建 =====
+
+==== 关于CST ====
+  * CDS专业学会的简介 对应词条: [[cst:AcademicSocieties|CDS 专业学会]]
+  * CDS主办的活动 对应词条: [[cst:Activies|CDS 活动]]
+  * 更多……
+==== 关于UIC ====  
+  * 综合简介 对应词条: [[uic101:introduction|UIC 简介]]
+  * 校园简介 对应词条: [[uic101:campus|UIC 校园]]
+  * 教学教务 对应词条: [[uic101:academic|UIC 教学教务]]
+  * 行政部门 对应词条: [[uic101:administration|UIC 行政]]
+
+
+
+===== 待完善 =====
+
+  * [[cst101:about|CST：专业介绍]]  <label type="info">内容待补充</label>
+
+
+  * [[cst101:course|CST：课程设置]]  <label type="warning">需要更详细的解释</label>
+
+
+  * [[uic101:clubs|UIC 社团]]  <label type="info">内容待补充</label>
+  
+  
+  * [[:faq|常见问题]]  <label type="info">内容待补充</label>
+ 
+===== 需要审核 =====
+
+  * [[uic101:gpa|UIC：GPA制度]]
+  * [[uic101:mcp|UIC：MCP 导师关顾计划]]
+  * [[uic101:tel|UIC：联系电话]]
+  * [[uic101:scholarship|UIC 奖学金制度]]
+  * [[uic101:geoNtran|UIC 地理与交通]] 
+  * [[uic101:how-to-get|UIC: 前往UIC]]

@@ -1,0 +1,12 @@
+<alert type="warning" dismiss="true">This page is in a maintenance state</alert>
+====== CST: 计算机科学与技术 ======
+
+计算机科学与技术专业成立于 2005 年，旨在培养信息技术、软件工程、移动计算等计算机领域的专业人才。专业在锻炼学生计算机基础及实践能力的同时，注重对学生创造性思维及国际视野的培养。本专业专职教授来自多个国家和地区，均具有世界一流大学博士学位。
+
+ --- //[[wfsu@uic.edu.hk|Programme Director: Prof. SU, Weifeng]] 2017/01/06//
+
+
+
+===== 相关资源 =====
+{{ :cst101:2016_197-206_cst_1_.pdf | 2016届教学手册}}
+

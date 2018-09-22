@@ -1,0 +1,124 @@
+<alert type="warning" icon="glyphicon glyphicon-info-sign">本页内容已经根据最新发布的新生手册更新</alert>
+
+====== DS: 课程设置 ======
+
+根据 [[download:undergraduate-handbook|2017级在校生手册]]，DS学生大学期间需要获得132个学分。
+
+^ 课程分类        ^ 学分         ^ 
+| Major Required Courses(专业必修课) | 42 |
+| Major Elective Courses(专业选修课) | 18 |
+| General Education Required Courses(通识教育核心课) | 32 |
+| General Education Distribution Courses(通识教育分类选修课) | 12 |
+| Whole Person Education Experiential Learning Modules(全人教育体验学习课程) | 4 |
+| Free Elective Courses(自由选修课) | 24 |
+^ Total  | **132** |
+
+
+===== Major Required Courses(专业必修课) ===== 
+
+专业必修课，除**数据处理工作坊**为一学分，其他为三学分。
+
+具体课程如下：
+^ English Title      ^ Chinese Title      ^ Unit(s)    ^
+| Data Structures and Algorithms | 数据结构和算法 | 3 |
+| Object-Oriented Programming | 面对对象编程 | 3 |
+| Design and Analysis of Algorithms | 算法设计和分析 | 3 |
+| Fundamentals of Database Systems | 数据库系统 | 3 |
+| Data Processing Workshop I | 数据处理发工作坊 Ⅰ | 1 |
+| Data Processing Workshop Ⅱ | 数据处理工作坊 Ⅱ | 1 |
+| Data Processing Workshop Ⅲ | 数据处理工作坊 Ⅲ | 1 |
+| Optimisation Methods | 最优化方法 | 3 |
+| Data Mining (For DS students) | 数据挖掘 | 3 |
+| Machine Learning | 机器学习 | 3 |
+| Final Year Project I | 毕业设计 Ⅰ | 3 |
+| Linear Algebra | 线性代数 | 3 |
+| Discrete Structures | 离散结构 | 3 |
+| Calculus Ⅰ | 微积分 Ⅰ | 3 |
+| Advanced Statistics | 高等统计学 | 3 |
+| Regression Analysis | 回归分析 | 3 |
+^ Total | 合计 | **42** |
+===== Major Elective Courses(专业选修课) =====
+
+学生必须从下面的列表中选择6门课程（18个单元）。 根据自己的兴趣和未来发展计划，可以选择更多的主要选修课程作为自由选修课程。
+
+^ English Title      ^ Chinese Title      ^ Unit(s)    ^
+| Numerical Computation | 数值计算 | 3 |
+| Financial Computing | 金融计算 | 3 |
+| Theory of Computation | 计算理论 | 3 |
+| Computer and Network Security | 计算机和网络安全 | 3 |
+| Database System Implementation | 数据库系统开发 | 3 |
+| Digital Media Computing | 数字媒体计算 | 3 |
+| Distributed Computing Systems | 分布式计算机系统 | 3 |
+| Computer Vision and Patten Recognition | 计算机视觉和模式识别 | 3 |
+| Information Retrieval and Search Engine | 信息检索及搜索引擎 | 3 |
+| Text Mining and Analytics | 文本挖掘与分析 | 3 |
+| Introduction to Statistical Computing | 统计计算 | 3 |
+| Introduction to Bioinformatics | 生物信息学 | 3 |
+| Final Year Project II (DS)<sup>*</sup> | 毕业论文II | 3 |
+| Calculus II | 微积分II | 3 |
+| Survey Sampling | 抽样调查 | 3 |
+| Bayesian Statistics | 贝叶斯统计 | 3 |
+| Experimental Design | 试验设计 | 3 |
+| Multivariate Analysis | 多元统计分析 | 3 |
+| Categorical Data Analysis | 属性数据分析 | 3 |
+| Time Series Analysis | 时间序列分析 | 3 |
+
+
+===== General Education Programme(通识教育课) =====
+
+所有的UIC学生都需要完成48个学分的通识教育课程（修满才允许毕业）。
+
+课程分为三类：
+  * GE必修课程，如统计漫谈(Speaking of Mathematics), 信息技术在日常的运用(IT for success of Everyday life and work).
+  * GED 课程
+  * 自由选修课
+
+
+
+====General Education Core (GEC) Requirements====
+
+|GEC requirements|Units|
+|English Courses<sup>[1]</sup>|12|
+|Chinese Courses<sup>[2]</sup>||
+|Information Management Technology<sup>[3]</sup>|3|
+|Numeracy<sup>[3]</sup>|3|
+|Values and the Meaning of Life/Applied Ethics/Business Ethics<sup>[4]</sup>|3|
+|Physical Education<sup>[5]</sup>|2|
+^Total^32^
+
+[1] Courses in this category include: English I, English II, English III including Public Speaking and Academic Reading and Writing (ARW), all of which are to be offered by the English Language Centre.
+
+[2] Courses in this category include University Chinese, Chinese Thought through the Ages, Selected Themes in Chinese History and Civilization, to be offered by the Chinese Language and Culture Centre.
+
+[3] Courses in this category include IT for Success in Everyday Life and Work, Speaking of Mathematics, Mathematics Around Us, and Speaking of Statistics, to be offered by the Division of Science and Technology.
+
+[4] Courses in this category include Business Ethics, Applied Ethics in Humanities and Social Sciences, and Applied Ethics in Science and Technology, to be offered by the three divisions.
+
+[5] Physical Education will be offered by the Whole Person Education Office.
+
+
+====General Education Distribution (GED) Requirements====
+
+|GED requirements|Units|
+|Foundation Course in Business and Management<sup>[1]</sup>|3<sup>*</sup>|
+|Foundation Course in Humanities and Social Sciences<sup>[2]</sup>|3<sup>*</sup>|
+|Foundation Course in Science and Technology<sup>[3]</sup>|3|
+|Foundation Course in World History and Civilization<sup>[4]</sup>|3<sup>*</sup>|
+|Foundation Course in Foreign Languages<sup>[5]</sup>|3|
+|WPEX Modules<sup>[6]</sup>|4|
+^Total^16^
+
+[1] Courses offered by the Division of Business and Management include Business and Society, Introduction to Entrepreneurship and Innovation.
+
+[2] Courses offered by the Division of Humanities and Social Sciences include Language, Media and Culture and Government and Society.
+
+[3] Courses offered by the Division of Science and Technology include Science of Wellbeing and, Power of Science and Technology.
+
+[4] Courses are offered by the GEO include Modern Europe, Modern European Thought and Culture, Contemporary America History, The Emergence of Modern America.
+
+[5] Five language courses at year-1 level in French, German, Korean, Japanese, and Spanish, offered by the Centre for Foreign Languages and Cultures, Division of Humanities and Social Sciences.
+
+[6] [[cds101:WPE|全人教育体验课程]]
+==== 自由选修课 ====
+
+共24个自由选修课学分

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="https://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://wiki.uiccst.com/feed.php">
+        <title>UICcst Wiki uic101</title>
+        <description></description>
+        <link>https://wiki.uiccst.com/</link>
+        <image rdf:resource="https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2017-08-04T17:05:44+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:clubs?rev=1499439406&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:geontran?rev=1499440207&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:gpa?rev=1498705457&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:mcp?rev=1498736498&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:scholarship?rev=1499050838&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:tel?rev=1498736904&amp;do=diff"/>
+                <rdf:li rdf:resource="https://wiki.uiccst.com/uic101:welcomepage?rev=1500467500&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcst Wiki</title>
+        <link>https://wiki.uiccst.com/</link>
+        <url>https://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://wiki.uiccst.com/uic101:clubs?rev=1499439406&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-07T22:56:46+08:00</dc:date>
+        <title>uic101:clubs</title>
+        <link>https://wiki.uiccst.com/uic101:clubs?rev=1499439406&amp;do=diff</link>
+        <description>UIC社团
+
+五星级社团 FIVE STAR INTEREST CLUBS
+
+·创联慈善公益社 
+
+·传统艺术文化体验社 
+
+·弓道社 
+
+
+四星级社团 FOUR STAR INTEREST CLUBS
+
+·粤语社 
+
+·梦想沙伐旅 
+
+·爱秀剧社 
+
+·创行 
+
+·职业发展协会</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:geontran?rev=1499440207&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-07T23:10:07+08:00</dc:date>
+        <title>uic101:geontran</title>
+        <link>https://wiki.uiccst.com/uic101:geontran?rev=1499440207&amp;do=diff</link>
+        <description>本页面具有时效性。我们尽力使页面的内容尽量贴近实际情况，但无法确保页面所介绍的内容完全符合实际情况。如页面的介绍与实际情况有出入，请以实际情况为准，并给予我们反馈。本文介绍的是位于广东省珠海市香洲区唐家湾镇金鼎会同社区金同路2000号的UIC</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:gpa?rev=1498705457&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-29T11:04:17+08:00</dc:date>
+        <title>uic101:gpa</title>
+        <link>https://wiki.uiccst.com/uic101:gpa?rev=1498705457&amp;do=diff</link>
+        <description>GPA制度
+
+学分与学业负担
+
+一门课程所含有的学分与你参加这门课后，需要付出的学习时间有关。一般来说，一门一学分的课程代表每周一次50分钟的讲座；或是每周两次50分钟的学习或实验室课程。全日制学生的最低的学业负担为每学期15个学分（大四学生除外）。</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:mcp?rev=1498736498&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-29T19:41:38+08:00</dc:date>
+        <title>uic101:mcp</title>
+        <link>https://wiki.uiccst.com/uic101:mcp?rev=1498736498&amp;do=diff</link>
+        <description>MCP 导师关顾计划
+
+背景介绍
+
+在希腊神话中，Mentor 是位老人，他受托于奥迪西斯 (Odysseus)，成为他儿子的老师和朋友。Mentor 这字的现代解释，是启蒙导师，是亦师亦友、对你忠心、关心的智者。在古希腊史诗《奥德赛》的几个场景中，智慧与技艺的女神阿西娜假以 Mentor 形式给建议予奥迪西斯和他儿子。Mentor 已被广泛地当成</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:scholarship?rev=1499050838&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-03T11:00:38+08:00</dc:date>
+        <title>uic101:scholarship</title>
+        <link>https://wiki.uiccst.com/uic101:scholarship?rev=1499050838&amp;do=diff</link>
+        <description>根据往年数据整理而出，仅供参考，如与官网数据有出入，请以官网为准
+UIC奖学金制度
+
+为嘉奖一批学业成绩优秀及各个方面均表现优异的学生，UIC设置了以下奖学金/助学金用以鼓励同学们</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:tel?rev=1498736904&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-29T19:48:24+08:00</dc:date>
+        <title>uic101:tel</title>
+        <link>https://wiki.uiccst.com/uic101:tel?rev=1498736904&amp;do=diff</link>
+        <description>联系电话
+部门 联系电话 教务处	  0756-3620303/207  招生办公室  0756-3620011 / 022 / 033 / 044  英语语言中心  0756-3620822  财务处  0756-3620089  四维教育协调处  0756-3620162  信息科技服务中心  0756-3620315  综合服务办事处</description>
+    </item>
+    <item rdf:about="https://wiki.uiccst.com/uic101:welcomepage?rev=1500467500&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-07-19T20:31:40+08:00</dc:date>
+        <title>uic101:welcomepage</title>
+        <link>https://wiki.uiccst.com/uic101:welcomepage?rev=1500467500&amp;do=diff</link>
+        <description>UIC 101
+
+这里会介绍有关UIC相关的信息，如果你想了解更多，可以在WelcomePage讨论页提出。
+
+UIC: GPA 制度
+
+UIC: MCP 导师关顾计划
+
+UIC: 奖学金制度
+
+UIC: 地理与交通
+
+UIC：联系电话</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,5 @@
+~~REDIRECT>ds101:about~~
+
+<WRAP center round important 60%>
+本页面已经被重定向[[ds101:about|Data Science: 数据科学与大数据技术]]
+</WRAP>

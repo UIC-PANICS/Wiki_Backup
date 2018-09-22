@@ -1,0 +1,7 @@
+===== DS 101 =====
+
+这里会介绍有关数据科学专业相关的信息，如果你想了解更多，可以在[[discussion:welcomepage|WelcomePage讨论页]]提出。
+
+[[ds101:about|DS:数据科学与大数据技术]]
+
+[[ds101:course|DS:课程设置]]

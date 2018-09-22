@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcst Wiki wiki</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-04-01T10:50:05+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/wiki:dokuwiki?rev=1502436231&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/wiki:syntax?rev=1502436231&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/wiki:welcome?rev=1502436232&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcst Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/wiki:dokuwiki?rev=1502436231&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:51+08:00</dc:date>
+        <title>wiki:dokuwiki</title>
+        <link>http://wiki.uiccst.com/wiki:dokuwiki?rev=1502436231&amp;do=diff</link>
+        <description>DokuWiki
+
+wiki:dokuwiki DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database. It is loved by users for its clean and readable syntax. The ease of maintenance, backup and integration makes it an administrator's favorite. Built in</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/wiki:syntax?rev=1502436231&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:51+08:00</dc:date>
+        <title>wiki:syntax</title>
+        <link>http://wiki.uiccst.com/wiki:syntax?rev=1502436231&amp;do=diff</link>
+        <description>翻译中  查看英文版本
+格式化语法
+
+DokuWiki 支持一种简单的标记语言，这种语言尝试尽量将数据文件可视化。这个页面中会尽可能的讲解你在编辑Wiki时会用到的语法。点击页面右侧的“编辑本页”可以看到本页面的原始文本。如果你想尝试一些东西，可以到</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/wiki:welcome?rev=1502436232&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-11T15:23:52+08:00</dc:date>
+        <title>wiki:welcome</title>
+        <link>http://wiki.uiccst.com/wiki:welcome?rev=1502436232&amp;do=diff</link>
+        <description>Welcome to your new DokuWiki
+
+Congratulations, your wiki is now up and running. Here are a few more tips to get you started.
+
+Enjoy your work with DokuWiki,
+
+-- the developers
+
+Create your first pages
+
+Your wiki needs to have a start page. As long as it doesn't exist, this link will be red:</description>
+    </item>
+</rdf:RDF>

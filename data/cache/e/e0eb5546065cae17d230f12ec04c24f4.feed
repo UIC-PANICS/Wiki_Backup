@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.uiccst.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.uiccst.com/feed.php">
+        <title>UICcds Wiki download</title>
+        <description></description>
+        <link>http://wiki.uiccst.com/</link>
+        <image rdf:resource="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-09-20T13:42:43+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/download:calendar?rev=1514772407&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/download:form?rev=1516430804&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.uiccst.com/download:undergraduate-handbook?rev=1514772391&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>UICcds Wiki</title>
+        <link>http://wiki.uiccst.com/</link>
+        <url>http://wiki.uiccst.com/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.uiccst.com/download:calendar?rev=1514772407&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-01-01T10:06:47+08:00</dc:date>
+        <title>download:calendar</title>
+        <link>http://wiki.uiccst.com/download:calendar?rev=1514772407&amp;do=diff</link>
+        <description>UIC校历
+
+2017-2018 学年校历</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/download:form?rev=1516430804&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-01-20T14:46:44+08:00</dc:date>
+        <title>download:form</title>
+        <link>http://wiki.uiccst.com/download:form?rev=1516430804&amp;do=diff</link>
+        <description>常用表单
+
+假条（15天以上）
+
+教室申请表</description>
+    </item>
+    <item rdf:about="http://wiki.uiccst.com/download:undergraduate-handbook?rev=1514772391&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-01-01T10:06:31+08:00</dc:date>
+        <title>download:undergraduate-handbook</title>
+        <link>http://wiki.uiccst.com/download:undergraduate-handbook?rev=1514772391&amp;do=diff</link>
+        <description>Undergraduate Handbook
+
+这个文件包含四年大学中需要学习的课程以及各课程学分等信息
+
+Undergraduate Handbook 2017 CST
+
+Undergraduate Handbook 2017 DS
+
+Undergraduate Handbook 2016
+
+Undergraduate Handbook 2015
+
+Undergraduate Handbook 2014</description>
+    </item>
+</rdf:RDF>

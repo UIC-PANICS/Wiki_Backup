@@ -1,0 +1,39 @@
+1499069179	14.18.54.152	C	uic101:geontran	billzhonggz	创建		1587
+1499085771	58.63.3.169	e	uic101:geontran	billzhonggz	修改wrapper为bootstrap风格		17
+1499086499	58.63.3.169	E	uic101:geontran	billzhonggz	更新公交站点信息		354
+1499086575	58.63.3.169	E	uic101:geontran	billzhonggz	更新警告信息		52
+1499086605	58.63.3.169	e	uic101:geontran	billzhonggz	修正警告信息的错误		9
+1499088486	58.63.3.169	E	uic101:geontran	billzhonggz	[周边交通站点] 公交列表更新		1738
+1499089824	58.63.2.242	E	uic101:geontran	billzhonggz	[周边交通站点] 增加“城轨唐家湾站”信息。		1218
+1499227834	58.63.2.242	E	uic101:geontran	billzhonggz	重写地理位置信息		648
+1499228023	58.63.2.242	E	uic101:geontran	billzhonggz	增加参考资料		198
+1499228684	58.63.2.242	E	uic101:geontran	billzhonggz	增加编辑警告		99
+1499228922	58.63.2.242	E	uic101:geontran	billzhonggz	优化布局		150
+1499229859	58.63.2.242	E	uic101:geontran	billzhonggz	增加经由广珠城轨前往珠海市区的信息。		1014
+1499229954	58.63.2.242	E	uic101:geontran	billzhonggz	更正免费线路信息		-5
+1499230030	58.63.2.242	E	uic101:geontran	billzhonggz	更正70路唐家湾站后途径地		-6
+1499230206	58.63.2.242	E	uic101:geontran	billzhonggz	更改标题表述		19
+1499260320	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		596
+1499260341	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		-120
+1499260687	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		1222
+1499260762	183.54.233.61	E	uic101:geontran	ecwu			-305
+1499260830	183.54.233.61	R	uic101:geontran	ecwu	已恢复为旧版 (2017/07/05 21:12)	1499260341	-917
+1499260839	183.54.233.61	E	uic101:geontran	ecwu			1
+1499260852	183.54.233.61	E	uic101:geontran	ecwu			2
+1499260865	183.54.233.61	E	uic101:geontran	ecwu	添加地图		-1
+1499260872	183.54.233.61	E	uic101:geontran	ecwu			0
+1499260879	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		0
+1499260884	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		0
+1499260892	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		0
+1499260901	183.54.233.61	E	uic101:geontran	ecwu	[UIC地理与交通] 		0
+1499261065	58.63.2.242	E	uic101:geontran	billzhonggz	修正定制巴士信息		-9
+1499267896	58.63.0.20	E	uic101:geontran	billzhonggz	更新定制巴士信息，修改布局		746
+1499268333	58.63.0.20	E	uic101:geontran	billzhonggz	最新信息显示定制公交没有在运营		33
+1499359506	113.65.26.31	e	uic101:geontran	ecwu	更改引用材料中的高德地图连接为以新小镇为中心的链接		10
+1499437678	58.63.3.70	E	uic101:geontran	billzhonggz	新增广珠城轨信息		2327
+1499439088	58.63.3.70	E	uic101:geontran	billzhonggz	[长途公路客运] 		1684
+1499440049	58.63.3.70	E	uic101:geontran	billzhonggz	页面内容编辑完毕		1634
+1499440207	113.65.26.31	E	uic101:geontran	ecwu	开启评论功能		16
+1502436230	127.0.0.1	E	uic101:geontran		外部编辑		0
+1503671938	61.144.21.82	E	uic101:geontran	billzhonggz	[地理位置] 		133
+1531217382	219.131.209.167	E	uic101:geontran	billzhonggz	更新各种信息		406
